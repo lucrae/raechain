@@ -1,0 +1,7 @@
+pip-selfcheck.json
+*.pyc
+*.pyo
+*.vscode
+side/
+bin/
+migrations/
